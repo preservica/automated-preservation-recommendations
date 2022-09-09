@@ -12,7 +12,7 @@ The 'pronom-signature-reconstructor.xsl' file is an XSLT routine that will trans
 * PRONOM allows the syntax '??' to express: "This single byte can have any value." The reconstructor rebuilds these with the syntax '{1}', meaning "A wildcard sequence of exactly one byte," which will produce exactly the same outcome.
 * Container signature XML files are not handled by the reconstructor.
 
-#### PRONOM Names List
+#### PRONOM Formats List
 
 'pronom-formats-list.xsl' is a simple XSLT routine that will transform a DROID binary signature XML file, and will output a comma-separated list of every PRONOM PUID, format name and format version in the file.
 

@@ -18,4 +18,4 @@ The 'pronom-signature-reconstructor.xsl' file is an XSLT routine that will trans
 
 'pronom-formats-list.xsl' is a simple XSLT routine that will transform a DROID binary signature XML file, and will output a comma-separated list of every PRONOM PUID, format name and format version in the file.
 
-Note that Microsoft Excel has a habit of changing version numbers such as '1-9' into dates, which when can behave oddly when turned back into string or numeric values, so be mindful of this when working with the data.
+Note that Microsoft Excel has a habit of changing version numbers such as '1-9' into dates, which can behave oddly when turned back into string or numeric values, so be mindful of this when working with the data.

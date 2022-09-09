@@ -1,5 +1,7 @@
 # Automated Preservation Recommendations
-[The main purpose of the repository is the Recommendations Wiki](https://github.com/preservica/automated-preservation-recommendations/wiki) which provides detail related to recommendation preservation actions in support of Preservica Automated-Preservation functionality. The repo will also serve some basic tools that may be of use for those that wish to explore PRONOM's file format data, from which the recommendated preservation actions have been derived.
+[The main purpose of the repository is the Recommendations Wiki](https://github.com/preservica/automated-preservation-recommendations/wiki) which provides detail related to recommendation preservation actions in support of Preservica Automated-Preservation functionality. 
+
+The repo will also serve some basic tools that may be of use for those that wish to explore PRONOM's file format data, from which the recommendated file format re-identification actions have been derived.
 
 ## XSLT files
 
